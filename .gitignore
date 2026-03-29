@@ -1,0 +1,12 @@
+# Ignore Chrome profile folders and virtualenv
+fb_chrome_profile/
+chrome_profile/
+chrome_profile_0/
+chrome_profile_1/
+chrome_profile_2/
+
+# Python virtual environment
+.venv/
+
+# Environment files
+.env
