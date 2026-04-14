@@ -5,3 +5,7 @@ webdriver-manager
 openai
 pandas
 gspread
+nbconvert
+nbclient
+jupyter
+ipykernel
