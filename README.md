@@ -4,9 +4,9 @@
 
 ## สรุปงาน
 
-- Phase 1: Facebook group scrapers (เก็บ Post URLs, ข้อมูลโพสต์เบื้องต้น) — มีใน `facebook/facebook_scraping.ipynb` และ CSV ผลลัพธ์
+- Phase 1: Facebook group scrapers (เก็บ Post URLs, ข้อมูลโพสต์เบื้องต้น)
 - Phase 2: Portal scrapers (หลายโน้ตบุ๊กใน `web-scraping/`) และ AI classification (Typhoon) อยู่ใน `ai.ipynb`
-- Phase 3: Handover — รวบรวมโค้ดและ CSV; ยังขาด README/runner (ไฟล์นี้ + `run_all.py`) และเอกสารรันแบบละเอียด
+- Phase 3: Handover — รวบรวมโค้ดและ CSV
 
 ## Prerequisites
 
