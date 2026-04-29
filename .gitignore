@@ -1,12 +1,20 @@
-# Ignore Chrome profile folders and virtualenv
-fb_chrome_profile/
-chrome_profile/
-chrome_profile_0/
-chrome_profile_1/
-chrome_profile_2/
-
-# Python virtual environment
-.venv/
-
-# Environment files
 .env
+__pycache__/
+*.pyc
+instance/
+venv/
+.env
+.DS_Store
+chrome-profile/
+.vscode/
+Thumbs.db
+real-estatescraper-9a627130f076.json
+.venv
+Scraping
+fb_chrome_profile
+facebook-scraping/chrome_profile
+chrome_profile/
+chrome_profile/Default/
+chrome_profile/component_crx_cache/
+chrome_profile_li_deep/
+chrome_profile_li_deep/Default/
